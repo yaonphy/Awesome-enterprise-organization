@@ -2,6 +2,7 @@
 ## A  backup for awesome enterprise organization on github
 
 ####[Apple OpenSource](https://github.com/opensource-apple)
+####[Microsoft](https://github.com/Microsoft)
 ####[Google](https://github.com/google)
 ####[Facebook](https://github.com/facebook)
 ####[Amazon](https://github.com/amzn)
@@ -16,5 +17,11 @@
 ####[Twitter, Inc.](https://github.com/twitter)
 ####[NetEase](https://github.com/NetEase)
 ####[Yandex](https://github.com/yandex)
-####[Yahoo Inc.](https://github.com/yahoo)
+####[Adobe Systems Incorporated](https://github.com/adobe)
+####[Esri](https://github.com/Esri)
+####[SAP](https://github.com/SAP)
+####[The Guardian](https://github.com/guardian)
+####[Adobe Systems Incorporated](https://github.com/adobe)
+####[Adobe Systems Incorporated](https://github.com/adobe)
+####[Adobe Systems Incorporated](https://github.com/adobe)
 
